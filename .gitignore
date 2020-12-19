@@ -1,0 +1,6 @@
+.direnv/
+.pytest_cache/
+__pycache__/
+*.tgz
+*.tar
+

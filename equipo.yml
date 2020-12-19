@@ -1,0 +1,10 @@
+--- # Equipo, incluir nombre y email
+equipo:
+  - nombre: Nombre y Apellidos
+    email: email@example.com
+  - nombre: Nombre y Apellidos
+    email: email@example.com
+  - nombre: Nombre y Apellidos
+    email: email@example.com
+  - nombre: Nombre y Apellidos
+    email: email@example.com
