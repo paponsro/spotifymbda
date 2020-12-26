@@ -32,5 +32,5 @@ test: ## Runs tests locally using pytest
 dependencies: ## Installs python dependencies locally
 	pip install --upgrade pip
 	pip install -r $(addprefix $(current_dir),requirements.txt)
-	pip install -r $(addprefix $(current_dir),requirements-dev.txt)
+	#pip install -r $(addprefix $(current_dir),requirements-dev.txt)
 
